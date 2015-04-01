@@ -1,0 +1,14 @@
+{
+    "title": "RecognEyes",
+    "name": "brackets-recogneyes-theme",
+    "description": "Brackets port of Eclipse's RecognEyes theme",
+    "version": "0.1.0",
+    "author": "Yuriy Tyukhnin <ytyukhnin@gmail.com>",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "main.less",
+        "dark": true
+    }
+}
